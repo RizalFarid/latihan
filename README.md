@@ -1,4 +1,4 @@
-- ???? Hi, I'm <USERNAME_ANDA>
+- ???? Hi, I'm Farid Rizals
 - ???? I'm interested in Software Engineering and Cloud Engineering 
 - ???? I'm currently learning Front-End Web Development Learning Path
 - ????️ I'm looking to collaborate on Movie Catalogue project
